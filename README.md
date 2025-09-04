@@ -1,1 +1,1 @@
-# tech_career_kamp_-dev2
+# TECH_CAREER_KAMP_ÖDEVLER
